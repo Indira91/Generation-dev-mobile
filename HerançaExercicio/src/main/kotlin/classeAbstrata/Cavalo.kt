@@ -1,0 +1,4 @@
+package classeAbstrata
+
+class Cavalo {
+}
